@@ -1,0 +1,4 @@
+Contact alice@example.com for project details.
+Send questions to bob@example.org or support.team@example.com.
+Repeated contact: alice@example.com
+This line has no email address.
